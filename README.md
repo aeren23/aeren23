@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering Student at Pamukkale University <br>Working on Backend .Net Core<br>İnterest with AI 
+Computer Engineering Student at Pamukkale University <br>Working on Backend .Net Core<br>Interest with AI 
 
 
 ## 🌐 Socials:
