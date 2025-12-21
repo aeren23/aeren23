@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Eren (aeren23) 👋
+# Hi there, I'm Ali Eren 👋
 
 > "First, solve the problem. Then, write the code." – John Johnson
 
