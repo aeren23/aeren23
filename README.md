@@ -20,12 +20,15 @@ I enjoy backend-heavy development, working close to infrastructure, and combinin
 
 ### Backend
 - **ASP.NET Core**, C#
-- Java
+- NestJS
 - Python
 - RESTful API Design
 - Clean Architecture & Layered Architecture
 - Entity Framework (Code First)
 - JWT Authentication & Role-based Authorization
+- Microservice Architecture
+- Onion Architecture
+- Domain Driven Design
 
 ### Databases
 - SQL Server
@@ -45,7 +48,9 @@ I enjoy backend-heavy development, working close to infrastructure, and combinin
 - Basic server & process management
 
 ### Frontend & Mobile
+- React
 - React Native
+- Blazor
 - TypeScript
 - HTML / CSS
 - Bootstrap
